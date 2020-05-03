@@ -1,1 +1,2 @@
 # Passwordgenerator
+This project consisted of a lot javascript. It included arrays, functions, and also if statements. I had a hard time getting the password to appear on the browser but it worked in the console log. I believe all of my arrays are coorect, what gave me problems were the functions. 
